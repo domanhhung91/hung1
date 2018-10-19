@@ -12,5 +12,3 @@ Nguồn: https://www.codeproject.com/Articles/239849/Multiple-face-detection-and
 	
 Mọi chi tiết liên hệ:
 https://www.facebook.com/groups/thigiacmaytinh
-https://www.facebook.com/vohungvi
-vohungvi@vohungvi.com
